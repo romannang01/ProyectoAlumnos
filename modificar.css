@@ -1,0 +1,21 @@
+body{
+    height: 768px;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: linear-gradient(#141e30, #243b55);
+}
+
+label {
+    color: white;
+    font-size: 20px;
+    text-decoration:solid;
+    font-family: 'Raleway','sans-serif';
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+    font-family: 'Raleway','sans-serif';
+    font-size: 25px;
+}
